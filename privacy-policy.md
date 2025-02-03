@@ -52,7 +52,7 @@ If you have questions, contact us at [support@cradle-vision.uz](mailto:support@c
 ---
 
 ## 4. DATA RETENTION PERIOD
-We store personal information for **5 years** or as long as necessary for app functionality. Data is securely deleted or anonymized afterward, unless legal obligations require longer retention.
+We store personal information for **3 years** or as long as necessary for app functionality. Data is securely deleted or anonymized afterward, unless legal obligations require longer retention.
 
 ---
 
